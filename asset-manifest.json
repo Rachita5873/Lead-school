@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lead-school/static/css/main.b3bf463b.css",
+    "main.js": "/Lead-school/static/js/main.a2b92454.js",
+    "static/js/787.42b6c9a2.chunk.js": "/Lead-school/static/js/787.42b6c9a2.chunk.js",
+    "index.html": "/Lead-school/index.html",
+    "main.b3bf463b.css.map": "/Lead-school/static/css/main.b3bf463b.css.map",
+    "main.a2b92454.js.map": "/Lead-school/static/js/main.a2b92454.js.map",
+    "787.42b6c9a2.chunk.js.map": "/Lead-school/static/js/787.42b6c9a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3bf463b.css",
+    "static/js/main.a2b92454.js"
+  ]
+}
