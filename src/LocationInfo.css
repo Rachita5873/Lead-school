@@ -1,0 +1,15 @@
+.place-info {
+    margin-top: 20px;
+    background-color: purple;
+    width: 35vw;
+    height: 22vh;
+    padding: 20px;
+}
+
+.place-info p{
+    font-weight: 700;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    font-size: larger;
+    color:burlywood;
+}
